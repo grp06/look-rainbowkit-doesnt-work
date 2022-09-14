@@ -4,7 +4,7 @@
 
 - run `./ngrok http 3000`
 
-- Open the URL that ngrok generates for you
+- Open the URL that ngrok generates for you (on an iOS device)
 
 - tap "connect wallet"
 
